@@ -1,0 +1,12 @@
+[submodule "ui-ux-pro-max-skill"]
+	path = ui-ux-pro-max-skill
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+[submodule "impeccable"]
+	path = impeccable
+	url = https://github.com/pbakaus/impeccable
+[submodule "prompt-master"]
+	path = prompt-master
+	url = https://github.com/nidhinjs/prompt-master
+[submodule "humanizer"]
+	path = humanizer
+	url = https://github.com/blader/humanizer
